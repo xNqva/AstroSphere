@@ -1,0 +1,8 @@
+h1{
+    text-align: center;
+}
+
+.img_desc{
+    display: flex;
+    flex-wrap: wrap;
+}
